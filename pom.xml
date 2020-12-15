@@ -38,7 +38,7 @@
 	</plugins>
 	</build>
   
-<distributionManagement>
+<!--<distributionManagement>
 	<repository>
 		<id>nexus-rps-deploy</id>
 		<name>Internal Releases</name>
@@ -52,7 +52,7 @@
 	</snapshotRepository>
 
 </distributionManagement>
-
+-->
 
 
 
